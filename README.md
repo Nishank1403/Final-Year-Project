@@ -1,3 +1,4 @@
+![Jobbhartee Banner](./jobbhartee.png)
 # JobBhartee
 It is a web application platform for college campus placements wherein the college placement officer is the admin and students are the job applicants or candidates
 and companies need to register to this platform to conduct the hiring.
